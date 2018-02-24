@@ -9,9 +9,13 @@ Application works on system tray, so you can just define your notifications, clo
 
 ## Preview
 
+----------
 ![App](https://s10.postimg.org/3w0phumgp/crypto-app.png)
 
+----------
+
 ![Alert](https://s10.postimg.org/t21noog15/crypto-alert.png)
+----------
 
 ## Installation
 Download cryptotrayalert.jar and run it.
