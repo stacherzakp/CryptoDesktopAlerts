@@ -9,9 +9,9 @@ Application works on system tray, so you can just define your notifications, clo
 
 ## Preview
 
-![App](https://s10.postimg.org/j4qmvmg51/crypto-app.png)
+![App](https://s10.postimg.org/3w0phumgp/crypto-app.png)
 
-![Alert](https://s10.postimg.org/cea5m6l9h/crypto-alert.png)
+![Alert](https://s10.postimg.org/t21noog15/crypto-alert.png)
 
 ## Installation
 1. Clone a repository.
